@@ -1,0 +1,30 @@
+_repo: Final-Glory_64142
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
+description: ''
+gutenberg_issued: '2020-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Mercury (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Final Glory
+url: http://www.gutenberg.org/ebooks/64142
